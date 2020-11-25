@@ -1,0 +1,8 @@
+/* Navbar Header Style */
+.navbar-header {
+  padding: 60px;
+  background: #fa6908;
+  color: white;
+  font-size: 30px;
+  font-weight: bolder;
+}
